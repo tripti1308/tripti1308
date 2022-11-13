@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tripti1308
 - 👀 I’m interested in ...competitive coding
 - 🌱 I’m currently learning ...Dsa using c++
-Currently learning Machine Learning
+Currently learning Web Development
 - 📫 How to reach me ...triptitiwari8227@gmail.com
 
 <!---
