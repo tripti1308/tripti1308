@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tripti1308
+- 👋 Hi, I’m @tripti
 - 👀 I’m interested in ...competitive coding
-- 🌱 I’m currently learning ...Dsa using c++
+- 🌱 Proficient in Problem Solving using DSA in C++
 - Currently learning and developing Web Based projects
 - 📫 How to reach me ...triptitiwari8227@gmail.com
 
